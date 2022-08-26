@@ -20,4 +20,4 @@ def lambda_handler(event, context):
     webhook.add_embed(embed)
     webhook.execute()
 
-    return messa
+    return message
