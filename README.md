@@ -1,4 +1,7 @@
 # DiscordNotifier-ForAWSPipeline
+Code and Library for AWS Lambda function.
+
+##
 For further information, refer to: 
 https://dev.to/saids11/aws-lambda-send-notifications-to-your-discord-server-using-sns-topics-43d2
 
